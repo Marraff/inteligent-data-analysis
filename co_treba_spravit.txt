@@ -1,4 +1,4 @@
-grafy hodnôt
+grafy hodnôt --> máme
 vychýlené hodnoty
 iné chyby v datasete
 ##############
@@ -6,4 +6,7 @@ párová analýza --> vybrať si dvojice a preskúmať vzťahy
 párová analýza --> identifikovať závislosti medzi dvojicami
 párová analýza --> identifikovať závislosti medzi predikovanou premennou a ostatnými premennými
 ##############
+
 sformovať 2 hypotézy
+
+treba nam zmenšit korelacnu mapu!
